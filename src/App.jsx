@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import GameScreen from './components/GameScreen';
 import ResultScreen from './components/ResultScreen';
 import { quizData } from './data/gameData';
@@ -163,6 +164,7 @@ function App() {
           onRestart={restartGame}
         />
       )}
+      <Analytics />
     </div>
   );
 }
