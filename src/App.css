@@ -241,6 +241,14 @@
   margin-bottom: 28px;
 }
 
+.start-logo {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  margin-bottom: 8px;
+  animation: bounceIn 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
 .start-hero h1 {
   font-size: 2rem;
   color: var(--text);
