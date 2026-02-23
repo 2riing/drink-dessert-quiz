@@ -1,0 +1,5072 @@
+{
+  "total": 892,
+  "passed": 844,
+  "failed": 0,
+  "warnings": 0,
+  "details": [
+    {
+      "category": "TC-1",
+      "name": "총 문제 수 48개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "ID 고유성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "이름 고유성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 필수 필드 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 정답이 보기에 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 보기 4개",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 보기 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 카테고리 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 난이도 유효",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 이미지 URL HTTPS",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 초성 힌트 글자수 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 설명 최소 20자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 해설 최소 10자",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "카테고리 균형 (음료 >= 15, 디저트 >= 15)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "난이도 분포 (easy >= 10, medium >= 5, hard >= 3)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "getInitialConsonants(\"아메리카노\") == \"ㅇ ㅁ ㄹ ㅋ ㄴ\"",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "getInitialConsonants(\"카페라떼\") == \"ㅋ ㅍ ㄹ ㄸ\"",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "getInitialConsonants(\"두쫀쿠\") == \"ㄷ ㅉ ㅋ\"",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#1 아메리카노 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#2 카페라떼 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#3 카푸치노 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#4 에스프레소 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#5 마키아토 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#6 모카 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#7 플랫화이트 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#8 초코라떼 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#9 딸기라떼 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#10 핫초코 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#11 레모네이드 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#12 밀크쉐이크 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#13 프라페 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#14 말차라떼 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#15 아인슈페너 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#16 달고나커피 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#17 버블티 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#18 흑임자라떼 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#19 수정과 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#20 크림라떼 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#21 아포가토 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#22 티라미수 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#23 마카롱 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#24 크루아상 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#25 에클레어 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#26 타르트 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#27 크렘브륄레 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#28 파르페 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#29 판나코타 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#30 아이스크림 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#31 와플 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#32 도넛 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#33 브라우니 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#34 쿠키 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#35 츄러스 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#36 두쫀쿠 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#37 두바이초콜릿 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#38 크로플 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#39 약과 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#40 탕후루 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#41 바스크치즈케이크 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#42 소금빵 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#43 뚱카롱 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#44 까눌레 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#45 크루키 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#46 마들렌 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#47 꿀떡 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-1",
+      "name": "#48 빙수 - 힌트가 실제 초성과 일치",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#1 아메리카노 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#1 아메리카노 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#1 아메리카노 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#2 카페라떼 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#2 카페라떼 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#2 카페라떼 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#3 카푸치노 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#3 카푸치노 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#3 카푸치노 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#4 에스프레소 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#4 에스프레소 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#4 에스프레소 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#5 마키아토 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#5 마키아토 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#5 마키아토 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#6 모카 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#6 모카 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#6 모카 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#7 플랫화이트 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#7 플랫화이트 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#7 플랫화이트 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#8 초코라떼 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#8 초코라떼 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#8 초코라떼 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#9 딸기라떼 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#9 딸기라떼 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#9 딸기라떼 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#10 핫초코 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#10 핫초코 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#10 핫초코 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#11 레모네이드 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#11 레모네이드 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#11 레모네이드 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#12 밀크쉐이크 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#12 밀크쉐이크 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#12 밀크쉐이크 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#13 프라페 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#13 프라페 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#13 프라페 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#14 말차라떼 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#14 말차라떼 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#14 말차라떼 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#15 아인슈페너 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#15 아인슈페너 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#15 아인슈페너 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#16 달고나커피 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#16 달고나커피 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#16 달고나커피 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#17 버블티 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#17 버블티 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#17 버블티 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#18 흑임자라떼 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#18 흑임자라떼 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#18 흑임자라떼 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#19 수정과 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#19 수정과 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#19 수정과 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#20 크림라떼 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#20 크림라떼 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#20 크림라떼 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#21 아포가토 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#21 아포가토 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#21 아포가토 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#22 티라미수 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#22 티라미수 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#22 티라미수 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#23 마카롱 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#23 마카롱 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#23 마카롱 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#24 크루아상 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#24 크루아상 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#24 크루아상 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#25 에클레어 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#25 에클레어 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#25 에클레어 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#26 타르트 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#26 타르트 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#26 타르트 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#27 크렘브륄레 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#27 크렘브륄레 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#27 크렘브륄레 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#28 파르페 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#28 파르페 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#28 파르페 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#29 판나코타 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#29 판나코타 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#29 판나코타 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#30 아이스크림 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#30 아이스크림 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#30 아이스크림 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#31 와플 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#31 와플 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#31 와플 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#32 도넛 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#32 도넛 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#32 도넛 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#33 브라우니 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#33 브라우니 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#33 브라우니 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#34 쿠키 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#34 쿠키 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#34 쿠키 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#35 츄러스 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#35 츄러스 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#35 츄러스 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#36 두쫀쿠 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#36 두쫀쿠 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#36 두쫀쿠 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#37 두바이초콜릿 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#37 두바이초콜릿 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#37 두바이초콜릿 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#38 크로플 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#38 크로플 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#38 크로플 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#39 약과 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#39 약과 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#39 약과 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#40 탕후루 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#40 탕후루 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#40 탕후루 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#41 바스크치즈케이크 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#41 바스크치즈케이크 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#41 바스크치즈케이크 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#42 소금빵 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#42 소금빵 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#42 소금빵 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#43 뚱카롱 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#43 뚱카롱 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#43 뚱카롱 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#44 까눌레 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#44 까눌레 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#44 까눌레 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#45 크루키 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#45 크루키 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#45 크루키 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#46 마들렌 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#46 마들렌 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#46 마들렌 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#47 꿀떡 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#47 꿀떡 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#47 꿀떡 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#48 빙수 - Pexels URL 형식",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#48 빙수 - Pexels photo ID 존재",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#48 빙수 - 이미지 크기 파라미터 (w=500)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#2 카페라떼 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#11 레모네이드 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#10 핫초코 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#5 마키아토 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#3 카푸치노 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#15 아인슈페너 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#8 초코라떼 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#1 아메리카노 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#9 딸기라떼 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#19 수정과 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#4 에스프레소 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#26 타르트 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#14 말차라떼 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#33 브라우니 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#6 모카 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#20 크림라떼 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#29 판나코타 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#7 플랫화이트 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#23 마카롱 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#22 티라미수 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#18 흑임자라떼 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#21 아포가토 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#17 버블티 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#16 달고나커피 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#28 파르페 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#13 프라페 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#27 크렘브륄레 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#32 도넛 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#31 와플 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#12 밀크쉐이크 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#25 에클레어 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#39 약과 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#24 크루아상 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#40 탕후루 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#46 마들렌 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#35 츄러스 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#38 크로플 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#36 두쫀쿠 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#41 바스크치즈케이크 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#43 뚱카롱 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#48 빙수 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#30 아이스크림 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#37 두바이초콜릿 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#42 소금빵 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#34 쿠키 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#44 까눌레 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#45 크루키 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#47 꿀떡 - Content-Type image/*",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "모든 이미지 Photo ID 고유성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#1 아메리카노 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#1 아메리카노 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#2 카페라떼 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#2 카페라떼 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#3 카푸치노 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#3 카푸치노 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#4 에스프레소 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#4 에스프레소 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#5 마키아토 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#5 마키아토 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#6 모카 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#6 모카 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#7 플랫화이트 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#7 플랫화이트 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#8 초코라떼 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#8 초코라떼 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#9 딸기라떼 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#9 딸기라떼 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#10 핫초코 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#10 핫초코 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#11 레모네이드 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#11 레모네이드 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#12 밀크쉐이크 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#12 밀크쉐이크 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#13 프라페 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#13 프라페 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#14 말차라떼 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#14 말차라떼 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#15 아인슈페너 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#15 아인슈페너 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#16 달고나커피 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#16 달고나커피 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#17 버블티 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#17 버블티 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#18 흑임자라떼 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#18 흑임자라떼 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#19 수정과 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#19 수정과 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#20 크림라떼 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#20 크림라떼 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#21 아포가토 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#21 아포가토 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#22 티라미수 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#22 티라미수 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#23 마카롱 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#23 마카롱 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#24 크루아상 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#24 크루아상 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#25 에클레어 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#25 에클레어 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#26 타르트 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#26 타르트 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#27 크렘브륄레 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#27 크렘브륄레 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#28 파르페 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#28 파르페 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#29 판나코타 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#29 판나코타 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#30 아이스크림 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#30 아이스크림 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#31 와플 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#31 와플 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#32 도넛 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#32 도넛 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#33 브라우니 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#33 브라우니 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#34 쿠키 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#34 쿠키 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#35 츄러스 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#35 츄러스 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#36 두쫀쿠 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#36 두쫀쿠 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#37 두바이초콜릿 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#37 두바이초콜릿 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#38 크로플 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#38 크로플 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#39 약과 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#39 약과 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#40 탕후루 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#40 탕후루 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#41 바스크치즈케이크 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#41 바스크치즈케이크 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#42 소금빵 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#42 소금빵 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#43 뚱카롱 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#43 뚱카롱 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#44 까눌레 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#44 까눌레 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#45 크루키 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#45 크루키 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#46 마들렌 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#46 마들렌 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#47 꿀떡 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#47 꿀떡 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#48 빙수 - 보기에 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-3",
+      "name": "#48 빙수 - 보기 문자열 유효성",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "랜덤 셔플 - 10개 선택 시 10개 반환",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "랜덤 셔플 - 중복 없음",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "카테고리 필터 - drink",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "카테고리 필터 - dessert",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "정답 비교 - 대소문자 무시",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "정답 비교 - 공백 trim",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "보기 셔플 후에도 정답 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "점수 계산 - 전부 정답 시 만점",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "점수 계산 - 전부 오답 시 0점",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "문제 수 선택 - 10문제",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "문제 수 선택 - 15문제",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "문제 수 선택 - 전체(999 cap)",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "카테고리 필터 + 문제 수 제한 조합",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-4",
+      "name": "카테고리 필터 + 전체 선택",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-5",
+      "name": "모든 이미지 URL에 w=500 파라미터 포함",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-5",
+      "name": "모든 설명이 마침표로 끝남",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-5",
+      "name": "모든 해설이 마침표로 끝남",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-5",
+      "name": "원본 데이터에서 정답이 보기에 항상 포함됨",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "category": "TC-5",
+      "name": "런타임 Fisher-Yates 셔플 후 정답 위치 분산",
+      "status": "PASS",
+      "message": ""
+    }
+  ]
+}
