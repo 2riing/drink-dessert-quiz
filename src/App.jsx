@@ -65,7 +65,6 @@ function App() {
       {gameState === 'start' && (
         <div className="start-screen">
           <div className="start-hero">
-            <img src="/logo.png" alt="카페 퀴즈 로고" className="start-logo" />
             <h1>카페 퀴즈</h1>
             <p className="start-subtitle">음료 & 디저트 이름 맞추기</p>
           </div>
